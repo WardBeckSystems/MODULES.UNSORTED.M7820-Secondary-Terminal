@@ -31,7 +31,7 @@ M7820 secondary terminal front and rear layout Title block at bottom left readin
 - **Closed boxes:** 18
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%207820-04-001%20-%20SECONDARY%20TERMINAL%20FRONT%20%26%20REAR%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%207820-04-001%20-%20SECONDARY%20TERMINAL%20FRONT%20%26%20REAR%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 
