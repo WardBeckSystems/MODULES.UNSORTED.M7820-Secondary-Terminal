@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M7820",
- "repo": "MODULES.UNSORTED.M7820-Secondary-Terminal",
+ "repo": "MODULES.COMMUNICATION.M7820-Secondary-Terminal",
  "title": "Secondary Terminal",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
