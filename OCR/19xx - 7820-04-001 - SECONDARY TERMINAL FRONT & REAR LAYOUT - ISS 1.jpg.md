@@ -1,5 +1,5 @@
 # 19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1.jpg
-Wiki page: [M7820](../../../../PAGES/M7820.md)
+Wiki page: [M7820](../)
 
 
 - **Year:** unknown (title block (read by eye))

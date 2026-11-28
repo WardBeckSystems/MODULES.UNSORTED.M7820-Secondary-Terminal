@@ -1,6 +1,6 @@
 # M7820 Secondary Terminal · Communication
 
-Ward-Beck Systems M7820. Wiki page: [M7820 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7820.html)
+Ward-Beck Systems M7820. Wiki page: [M7820 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7820-Secondary-Terminal/)
 
 | Folder | What is in it | Files |
 |---|---|---|
