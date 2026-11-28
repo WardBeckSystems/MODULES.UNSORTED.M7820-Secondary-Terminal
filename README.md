@@ -19,6 +19,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M7820.stl`](MECHANICAL/M7820.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M7820)
+
+- **Size:** 41 × 208.62 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
+- **From the drawing:** 16 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M7820 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M7820.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
